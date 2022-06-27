@@ -1,0 +1,2 @@
+- add default styles for href to have a cursor
+
